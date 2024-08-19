@@ -1,0 +1,17 @@
+hatx0, hatx_Pipe & hatx_Snk | !(hatx_Nec) & hatx_Viru_Fact | hatx_Grass
+hatx1, hatx_DAP | (hatx_GramP_Bact & hatx_GramP_Bact) | (hatx_Fungi & hatx_GramP_Bact)
+hatx_DAP, hatx_GramN_Bact
+hatx_DV_patterning, hatx_DV_patterning
+hatx_Fungi, hatx_Fungi
+hatx_Gd, hatx_Ndl
+hatx_GramN_Bact, hatx_GramN_Bact
+hatx_GramP_Bact, hatx_GramP_Bact
+hatx_Grass, hatx_ModSP
+hatx_ModSP, hatx1
+hatx_Ndl, hatx_DV_patterning
+hatx_Nec, hatx_Nec
+hatx_Pipe, hatx_Pipe
+hatx_SPE, hatx0
+hatx_Snk, hatx_Gd
+hatx_Spz, hatx_SPE
+hatx_Viru_Fact, hatx_Fungi | hatx_GramP_Bact
